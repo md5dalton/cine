@@ -1,0 +1,8 @@
+## [0.0.0] - 2021-07-24
+
+### Removed
+- Subdirectories => cdn/, STP/, Scan/
+
+
+### Added
+- This Changelog text file
